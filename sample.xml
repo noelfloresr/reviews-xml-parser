@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation=
+ "http://www.google.com/shopping/reviews/schema/product/2.3/product_reviews.xsd">
+    <version>2.3</version>
+    <aggregator>
+        <name>Sample Reviews Aggregator (if applicable)</name>
+    </aggregator>
+    <publisher>
+        <name>Kozie Clothes</name>
+        <favicon>https://www.kozieclothes.com/favicon.ico</favicon>
+    </publisher>
+    <reviews>
+        <review>
+            <!-- minimal sample - no optional elements/attributes -->
+            <reviewer>
+                <name>Michelle Lesagonicz</name>
+                <reviewer_id>malesagonicz@gmail.com</reviewer_id>
+            </reviewer>
+            <review_timestamp>2024-09-06T16:17:12Z</review_timestamp>
+            <content>There are still new and will see how they continue to work for him.  So far, so good!</content>
+            <review_url type="singleton">https://www.kozieclothes.com/product-page/bfb73de0-6975-4735-b58e-95c45adb7f21</review_url>
+            <ratings>
+                <overall min="1" max="5">4</overall>
+            </ratings>
+            <products>
+                <product>
+                    <product_url>https://www.kozieclothes.com/product-page/alien-buddies-seamless-ez-sox-kid-s-socks-for-sensory-sensitivity-and-fine-moto</product_url>
+                </product>
+            </products>
+        </review>
+    </reviews>
+</feed>

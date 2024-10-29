@@ -1,0 +1,3680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.google.com/shopping/reviews/schema/product/2.3/product_reviews.xsd">
+  <version>2.3</version>
+  <aggregator>
+    <name>Sample Reviews Aggregator (if applicable)</name>
+  </aggregator>
+  <publisher>
+    <name>Kozie Clothes</name>
+    <favicon>https://www.kozieclothes.com/favicon.ico</favicon>
+  </publisher>
+  <reviews>
+    <review>
+      <reviewer>
+        <name>Michelle Lesagonicz</name>
+        <reviewer_id>malesagonicz@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-09-06T16:17:12.000Z</review_timestamp>
+      <content>There are still new and will see how they continue to work for him.  So far, so good!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/bfb73de0-6975-4735-b58e-95c45adb7f21</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/bfb73de0-6975-4735-b58e-95c45adb7f21</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Debra Benson</name>
+        <reviewer_id>debib31654@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-21T13:55:32.000Z</review_timestamp>
+      <content>Perfect for our little Layn. Need more styles and colors</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/be675f80-b7e5-4564-a48d-61119ac1d662</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/be675f80-b7e5-4564-a48d-61119ac1d662</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Michelle Lesagonicz</name>
+        <reviewer_id>malesagonicz@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-19T03:12:25.000Z</review_timestamp>
+      <content>No complaints</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/510de440-583f-1d9b-6435-a821af1da956</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/510de440-583f-1d9b-6435-a821af1da956</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresanna Manganiello</name>
+        <reviewer_id>rollerskateskinny00@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-15T19:49:34.000Z</review_timestamp>
+      <content>Fantastic!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/510de440-583f-1d9b-6435-a821af1da956</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/510de440-583f-1d9b-6435-a821af1da956</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Madeline Dudziak</name>
+        <reviewer_id>dudziakmc@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-13T14:13:57.000Z</review_timestamp>
+      <content>We love these shirts! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Melissa Stock</name>
+        <reviewer_id>mannk731@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-06T20:42:42.000Z</review_timestamp>
+      <content>Amazing product! Perfect for my boy who needs sensory compression to help support him throughout the day. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Cathy Clark</name>
+        <reviewer_id>cathyclarkpt@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-01T10:11:30.000Z</review_timestamp>
+      <content>I bought the child’s current size and they were too large to provide compression 
+The quality seems good, but I don’t know yet if they work for her</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Halcyon Coleman</name>
+        <reviewer_id>halycolon@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-07-31T23:52:10.000Z</review_timestamp>
+      <content>Haven’t received it yet</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresanna Manganiello</name>
+        <reviewer_id>rollerskateskinny00@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-07-16T18:28:10.000Z</review_timestamp>
+      <content>These are great! Super well made!! My son loves throwing them up in the air to catch them. They are terrific for working on hand-eye coordination. He loves them!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/52f2ca5f-7301-4065-873e-1637115edd95</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/52f2ca5f-7301-4065-873e-1637115edd95</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ryan Schloesser</name>
+        <reviewer_id>rschloes702spd@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-07-15T15:05:20.000Z</review_timestamp>
+      <content>Great product. Don’t know how many I can afford. Just a little steep. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/5f2d0058-0990-a93c-05b3-69c2095cc67a</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/5f2d0058-0990-a93c-05b3-69c2095cc67a</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nataliya Pughsley</name>
+        <reviewer_id>nataliabeez17@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-07-15T04:45:44.000Z</review_timestamp>
+      <content>Amazing products and customer service!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Marisa Escobar</name>
+        <reviewer_id>mescobar622@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-07-14T23:34:40.000Z</review_timestamp>
+      <content>Fast shipping, packaged well, great material, sizing was spot on. We will be back to buy more!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Elizabeth Hall</name>
+        <reviewer_id>liz.meehl@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-07-03T09:32:32.000Z</review_timestamp>
+      <content>Great fit and so soft!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Courtney Young</name>
+        <reviewer_id>courtney.mcnay@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-06-29T19:50:47.000Z</review_timestamp>
+      <content>Great company and great outfits. You were recommended to us by our PT. Thank you for what you do! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nicholas Newton</name>
+        <reviewer_id>theresajanenewton@icloud.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-06-29T19:35:12.000Z</review_timestamp>
+      <content>The blankets were good but the clothes run small </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Susan Elliott</name>
+        <reviewer_id>pineapple188462@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-06-02T17:53:06.000Z</review_timestamp>
+      <content>Excellent!  They help so much! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Charles Edwards</name>
+        <reviewer_id>lynnchuck@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-22T02:47:09.000Z</review_timestamp>
+      <content>My Granddaughter loves them!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Matt Henson</name>
+        <reviewer_id>matthenson4@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-21T19:20:17.000Z</review_timestamp>
+      <content>I wish the size 5-9 would come back in stock. I ordered these for my daughter but she needs bigger 1s. This is the only sock I can get her to wear and I’ve bought over 15 pair.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Emily  Hopkins</name>
+        <reviewer_id>spexmar@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-14T19:43:34.000Z</review_timestamp>
+      <content>i haven't received my order yet. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sandra Lauri</name>
+        <reviewer_id>san1lau@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-09T19:16:29.000Z</review_timestamp>
+      <content>Had tags and seams. Didn’t think it was suppose to have either </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Alma Montolio</name>
+        <reviewer_id>almablessed@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-22T04:43:59.000Z</review_timestamp>
+      <content>It’s for my grandson </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sarah Chase</name>
+        <reviewer_id>sarahachase@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-16T22:57:40.000Z</review_timestamp>
+      <content>Sadly the material was unlike other compression shirts we’ve bought. Your material feels more like a swim shirt vs soft. And there was a tag on the inside of the shirt by the waistline/hip area. Sensory issues and the need for a compression shirt are related so I was really surprised about the feel of the shirt and the tag. We had to immediately rip out the tag and daughter couldn’t handle the material of the shirt. We had high hopes for your company because the price was two times as much than we’ve paid for a soft and cozy compression shirt. We decided to try your company because you offer a range of colors. But we’re unable to use the shirt as the feel is not good.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sarah Haukos</name>
+        <reviewer_id>sarahmd27@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-10T20:36:33.000Z</review_timestamp>
+      <content>My daughter loves these pants! It’s really amazing how one piece of clothing can change their whole attitude on getting dressed! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Reed Morgan</name>
+        <reviewer_id>reed.morgan23@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-07T19:33:14.000Z</review_timestamp>
+      <content>Excellent quality. Fit is perfect.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Kimberly Jacobs</name>
+        <reviewer_id>jacobs.kimber@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-05T20:20:05.000Z</review_timestamp>
+      <content>Ordered 2, both were same size but pink was bigger than black (have photos lying on top each other).  For this price , was expecting much more compression like much cheaper ones we are using but that did not come in anything but white. Stitching is nice and looks well done but we cannot use these for "hugging".</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">2</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nicole Taylor</name>
+        <reviewer_id>nickelynn@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-05T20:04:47.000Z</review_timestamp>
+      <content> We ordered the clothing for my 2-year-old autistic daughter. Soon as the clothing came in I put them on her right away to see how she would react. I had to force the clothes off of her to wash them because she didn't want to take them off thank you Kozie!!!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresa Walters</name>
+        <reviewer_id>theresa_walters@icloud.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-02T20:58:22.000Z</review_timestamp>
+      <content>My son loves his Kozie clothes! Thank you for an amazing product.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Timothy McMahon</name>
+        <reviewer_id>mcmahon10@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-02-22T22:30:59.000Z</review_timestamp>
+      <content>My son really likes these shirts and it seems to help with his behavior</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Cassie Foxen</name>
+        <reviewer_id>cassiefoxen610@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-02-13T22:34:22.000Z</review_timestamp>
+      <content>My son loves it! He said it's like wearing a hug. It came in super cute packaging.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Timothy McMahon</name>
+        <reviewer_id>mcmahon10@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-02-13T20:04:39.000Z</review_timestamp>
+      <content>Great fit and does the job</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sarah Haukos</name>
+        <reviewer_id>sarahmd27@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-02-05T01:13:13.000Z</review_timestamp>
+      <content>Great quality and the morning battle for putting pants on has ended!! My daughter loves them!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Barbara Barnes</name>
+        <reviewer_id>barnesba@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-02-04T14:17:08.000Z</review_timestamp>
+      <content>Two large for our 3 1/2 year old </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Darrell Adams</name>
+        <reviewer_id>annieramsey@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-01-10T20:36:54.000Z</review_timestamp>
+      <content>love the quality!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Lindsey Clark</name>
+        <reviewer_id>clark21412@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-12-20T16:24:27.000Z</review_timestamp>
+      <content>My son loves them! And they stretch to grow well with him.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Michelle Meadows</name>
+        <reviewer_id>ma_belle79@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-12-14T22:09:45.000Z</review_timestamp>
+      <content>Son loves them and is asking to wear them daily. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Angela Brust-Balogun</name>
+        <reviewer_id>angelabrust@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-10-17T14:07:37.000Z</review_timestamp>
+      <content>We were looking for something with the feel of putty, without the mess and distraction. My daughter loves this as a substitute.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c16b0a0a-60fe-4291-8d7e-8561d07ad6ce</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c16b0a0a-60fe-4291-8d7e-8561d07ad6ce</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Virginia  Missita Waddington</name>
+        <reviewer_id>gmissita@icloud.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-09-14T22:37:07.000Z</review_timestamp>
+      <content>Life saver!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Angela Brust-Balogun</name>
+        <reviewer_id>angelabrust@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-08-24T20:42:51.000Z</review_timestamp>
+      <content>We love them for my daughter...she asked for more as she identified that they help her </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Leslie McGregor</name>
+        <reviewer_id>lmcgregor63@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-08-16T17:08:18.000Z</review_timestamp>
+      <content>I love the product!! My grandson was able to keep the clothes on for an hour!! Which is a lot longer then all we have came across. We are continuing to work with him on extending that amount of time.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Patricia Nielsen</name>
+        <reviewer_id>trish_nielsen1@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-07-22T23:53:24.000Z</review_timestamp>
+      <content>My son was having a lot of sensory issues with any and all shorts and pants. I decided to try these out, and was surprised to find he loves them! I ended up buying more. 
+Cute colors, and good quality as well. Highly recommended for anyone with sensory struggles. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Anna Rael</name>
+        <reviewer_id>vasquez.anna39@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-07-08T16:03:29.000Z</review_timestamp>
+      <content>Very good, we use the product for my daughter who has burn scars. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1c33dc1-c219-432f-8968-344af9b01b9d</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1c33dc1-c219-432f-8968-344af9b01b9d</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jennifer  Brown</name>
+        <reviewer_id>jennifer.thompson.brown@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-05-25T18:17:34.000Z</review_timestamp>
+      <content>My son usually sweats and sleeps hot even with A/C and a fan. He absolutely loves his new temperature control t-shirt and will wear nothing else to bed. I hope you continue to make these as he ages out of the medium and large sizes.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c7e32737-da2b-49a2-b2d4-905f3bd7c027</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c7e32737-da2b-49a2-b2d4-905f3bd7c027</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>John McMillen</name>
+        <reviewer_id>mcmillenjv@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-05-20T18:01:51.000Z</review_timestamp>
+      <content>My son loves his compression shirts</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Shannon Lewis</name>
+        <reviewer_id>shannonlewis333@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-05-09T22:58:33.000Z</review_timestamp>
+      <content>This item fits perfectly and has outstanding quality! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Zoe Ford</name>
+        <reviewer_id>zoekcford@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-04-27T20:13:34.000Z</review_timestamp>
+      <content>Amazing product, sturdy enough for active children. My kids roll around in the mud and their kozie shirts and shorts are so easy to clean! My son calls them his "sqeezey shirts" and wears at least one kozie product every day. Not to mention the amazing customer service Kozie sellers offers!  Thanks so much Kozie!! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Rebecca Sundhagen</name>
+        <reviewer_id>joonbug47@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-04-19T01:02:58.000Z</review_timestamp>
+      <content>Pricey. Order 2 sizes smaller than sizing chart to get a good fit and compression. I appreciate 3 feminine colors, and the fact that the undershirt won’t show under school shirts or dresses for my daughter. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Erica Beus</name>
+        <reviewer_id>erica.beus@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-04-14T03:56:44.000Z</review_timestamp>
+      <content>It is my son’s favorite outfit.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Elizabeth McCarthy</name>
+        <reviewer_id>mcca0579@umn.edu</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-04-10T02:03:53.000Z</review_timestamp>
+      <content>My son will wear this and I think it helps at school. It's well-made and he likes the color. We turn it inside out otherwise he doesn't like the feel of the seams.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Josephine ryan</name>
+        <reviewer_id>jmryan2000@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-28T17:19:11.000Z</review_timestamp>
+      <content>my experience has been good.  </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Tabatha Budnick</name>
+        <reviewer_id>jaylee25@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-22T03:16:52.000Z</review_timestamp>
+      <content>They are awesome!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Tabatha Budnick</name>
+        <reviewer_id>jaylee25@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-10T00:42:50.000Z</review_timestamp>
+      <content>If you have a sensory child these are for you!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Tabatha Budnick</name>
+        <reviewer_id>jaylee25@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-10T00:42:49.000Z</review_timestamp>
+      <content>If you have a sensory child these are for you!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Tabatha Budnick</name>
+        <reviewer_id>jaylee25@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-25T21:54:46.000Z</review_timestamp>
+      <content>They are awesome </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Elizabeth Marton</name>
+        <reviewer_id>elizadesignerb@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-19T13:02:58.000Z</review_timestamp>
+      <content>Love these but they do run big</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Elizabeth Marton</name>
+        <reviewer_id>elizadesignerb@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-19T13:02:56.000Z</review_timestamp>
+      <content>Love these but they do run big</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ashlyn  Atherton</name>
+        <reviewer_id>puppieluv08@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-15T08:57:57.000Z</review_timestamp>
+      <content>This product is wonderful, thank you so much. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Katie Deans</name>
+        <reviewer_id>katieadeans@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-14T20:17:18.000Z</review_timestamp>
+      <content>This shirt is perfect!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/a311d9f0-7fd3-467e-b762-27001e59f6b3</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/a311d9f0-7fd3-467e-b762-27001e59f6b3</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>David Swanson</name>
+        <reviewer_id>shezalatte@msn.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-22T00:44:44.000Z</review_timestamp>
+      <content>I purchased these items for our granddaughter at the recommendation of her therapist. We are pleased with the purchase and are looking forward to how she responds to compression clothing. She tends to want to strip down when she is in regular attire…and so far, she has kept these items on. PLUS…your,Susan Donohoe in Customer Service was SO helpful and responded so quickly when I realized I made an entry error upon submitting my initial order.  A HUGE shout-out to her. Thank you!!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Renee Knutson</name>
+        <reviewer_id>tleek07@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-17T19:46:22.000Z</review_timestamp>
+      <content>My son loves them, they gave us a coupon due to a rip in a previous shirts seam. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Aurora  Previte</name>
+        <reviewer_id>rors413@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-17T19:40:41.000Z</review_timestamp>
+      <content>The pants were not soft material and had uncomfortable seams.  The price was very high for the quality. Also, you have to pay to send back an item. I would not recommend buying from this retailer </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Aurora  Previte</name>
+        <reviewer_id>rors413@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-17T19:40:40.000Z</review_timestamp>
+      <content>The pants were not soft material and had uncomfortable seams.  The price was very high for the quality. Also, you have to pay to send back an item. I would not recommend buying from this retailer </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresanna Manganiello</name>
+        <reviewer_id>rollerskateskinny00@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-14T13:45:52.000Z</review_timestamp>
+      <content>My son loves this shirt! He’s able to wear it with just about anything. It creates that snug feeling he likes without being too hot. It’s great for summertime fun!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ronald Diebel</name>
+        <reviewer_id>ronalddiebel@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-12T21:20:48.000Z</review_timestamp>
+      <content>He wears them.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/251d95be-ae5e-47b0-b586-fcea7a7be748</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/251d95be-ae5e-47b0-b586-fcea7a7be748</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sara Knudson</name>
+        <reviewer_id>s.knudson@tukaiz.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-12-07T21:29:46.000Z</review_timestamp>
+      <content>The absolute best! Our son has tried many brands and this is a winner! He specifically requests his shirts! Wonderful customer service as well!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Virginia  Flores</name>
+        <reviewer_id>gutierrez_virginia84@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-26T19:44:06.000Z</review_timestamp>
+      <content>My son seams to be more focus when he is wearing the shirt </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Kendra Paulus</name>
+        <reviewer_id>kpaulus552@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-24T00:17:15.000Z</review_timestamp>
+      <content>Great fit! So far, it’s doing a great job!! Only have trialed on one child so far as a therapist stand point! Great material, love that there are not any tags or irritating aspects to it!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Laura Blume</name>
+        <reviewer_id>blume0218@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-22T16:43:52.000Z</review_timestamp>
+      <content>He went from sleeping 3 hours at night to 6 hours</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sharon Batcher</name>
+        <reviewer_id>sharonbatcher@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-11T20:18:12.000Z</review_timestamp>
+      <content>Grandson continues to enjoy theses comfy clothes! Thanks </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sharon Batcher</name>
+        <reviewer_id>sharonbatcher@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-11T20:18:10.000Z</review_timestamp>
+      <content>Grandson continues to enjoy theses comfy clothes! Thanks </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Melinda Skaggs</name>
+        <reviewer_id>mskaggs346@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-10T21:07:23.000Z</review_timestamp>
+      <content>My son would not take the compression shirt off the first day. He wanted to sleep in it and it took a lot of tries to get him to take it off so I could wash it. He then immediately wanted it back on. 
+I usually cannot get him to want or even tolerate many clothes, so this is a huge win for us. I will be ordering another when I can. Thank you! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Shannon Stoelting</name>
+        <reviewer_id>rathersk@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-03T20:01:51.000Z</review_timestamp>
+      <content>My son loves his shirts, he calls them his hug shirts</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/bfb73de0-6975-4735-b58e-95c45adb7f21</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/bfb73de0-6975-4735-b58e-95c45adb7f21</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Candice Harris</name>
+        <reviewer_id>charris628@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-01T23:05:01.000Z</review_timestamp>
+      <content>My daughter loves Kozie Clothes! Someone gifted us a set and my daughter wanted to wear them everyday. I purchased her some of the pants short sleeve shirts and long sleeve shirts. She loves them all. She wears the pants under her dresses and the shirts under her dresses and even loves wearing them without other clothes on top. I am so happy she loves them and gets that “hug” feeling she’s always seeking! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Renee Knutson</name>
+        <reviewer_id>tleek07@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-26T00:38:02.000Z</review_timestamp>
+      <content>My son loves it! It’s of high quality and shopping was fast and customer service was good. Thank you!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>susan britton</name>
+        <reviewer_id>sue@bmdg.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-22T21:13:47.000Z</review_timestamp>
+      <content>An everyday must for our sensory girl! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Maureen Lafave</name>
+        <reviewer_id>feb3764@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-15T20:02:16.000Z</review_timestamp>
+      <content>My grandson loves them! He wants to sleep in the long sleeve shirt!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Camryn Leutgens Holloman</name>
+        <reviewer_id>leutgens.camryn@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-11T13:37:13.000Z</review_timestamp>
+      <content>I like these shirts but the sizing isn’t correct. I’ve bought a 4T and 5T and both are too big. My child wears a 5T normally in non compression shirts. I will try a 3T next. I like the fabric because they are  less hot than the ones on amazon  but I think the sizing needs to be altered </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Camryn Leutgens Holloman</name>
+        <reviewer_id>leutgens.camryn@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-11T13:37:11.000Z</review_timestamp>
+      <content>I like these shirts but the sizing isn’t correct. I’ve bought a 4T and 5T and both are too big. My child wears a 5T normally in non compression shirts. I will try a 3T next. I like the fabric because they are  less hot than the ones on amazon  but I think the sizing needs to be altered </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Camryn Leutgens Holloman</name>
+        <reviewer_id>leutgens.camryn@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-11T13:37:09.000Z</review_timestamp>
+      <content>I like these shirts but the sizing isn’t correct. I’ve bought a 4T and 5T and both are too big. My child wears a 5T normally in non compression shirts. I will try a 3T next. I like the fabric because they are  less hot than the ones on amazon  but I think the sizing needs to be altered </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sharon Batcher</name>
+        <reviewer_id>sharonbatcher@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-08T17:38:51.000Z</review_timestamp>
+      <content>Love love love!  My 4 year old Grandson has a tough time with clothes but he will wear and keep on his Kozie clothes!  So thankful </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>aracelis fakhoury</name>
+        <reviewer_id>sosa0714@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-06T19:50:49.000Z</review_timestamp>
+      <content>The sizing was off. The shirts are way too big :(</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">2</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Alexandra  Kastelic</name>
+        <reviewer_id>ahkastelic@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-29T19:29:43.000Z</review_timestamp>
+      <content>really great will purchase  every size over time</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Candace  Marshall</name>
+        <reviewer_id>kgmjnm@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-18T01:11:41.000Z</review_timestamp>
+      <content>A very nice product! We will be ordering more!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sean Degerstrom</name>
+        <reviewer_id>sdegerst@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-15T21:54:10.000Z</review_timestamp>
+      <content>We've been using your product for a few years.  Your shirts bring a comfortable hug for my sensory seeking son.  This is a great product.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Alma Montolio</name>
+        <reviewer_id>almablessed@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-15T20:47:02.000Z</review_timestamp>
+      <content>My grandson loved the compression shirts</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Valda Shaw</name>
+        <reviewer_id>valdahinson@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-14T21:54:11.000Z</review_timestamp>
+      <content>Love the products. Need more colors</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Christy Morse</name>
+        <reviewer_id>cmorse117@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-02T00:34:32.000Z</review_timestamp>
+      <content>These are so soft. My daughter has been wearing a compression shirt for about six months these are the softest and by far the most comfortable they also look just like a normal shirt </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>susan britton</name>
+        <reviewer_id>sue@bmdg.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-31T22:41:02.000Z</review_timestamp>
+      <content>An essential item for our sensory girl! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Michaela Flagg</name>
+        <reviewer_id>michaela.ann.flagg@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-12T23:44:44.000Z</review_timestamp>
+      <content>My son has sensory needs and likes the shirt. I just wish it wasn’t so expensive. It is also pilling after a few wears. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>susan britton</name>
+        <reviewer_id>sue@bmdg.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-09T00:33:59.000Z</review_timestamp>
+      <content>The compression T-Shirts are an absolute necessity for my granddaughters with SPD. Thank you for making them. It is hard to find anything they can wear!!! LOVE. LOVE. LOVE!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>LeeAnn Browett</name>
+        <reviewer_id>gleeannp@mail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-07-25T21:10:05.000Z</review_timestamp>
+      <content>Awesome compression compression shirts (my son’s favorite) and awesome service!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nicole Bode</name>
+        <reviewer_id>nicolebode1@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-07-14T22:12:02.000Z</review_timestamp>
+      <content>My kiddo loves it!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nina Sánchez</name>
+        <reviewer_id>1211danielorozco@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-06-23T14:55:29.000Z</review_timestamp>
+      <content>Muy práctico
+</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/a311d9f0-7fd3-467e-b762-27001e59f6b3</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/a311d9f0-7fd3-467e-b762-27001e59f6b3</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nina Sánchez</name>
+        <reviewer_id>1211danielorozco@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-06-13T23:33:13.000Z</review_timestamp>
+      <content>Muy inútiles </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Trene Coquet</name>
+        <reviewer_id>tray_olsen@msn.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-05-31T21:14:49.000Z</review_timestamp>
+      <content>My daughter has two of these and loves to wear them under her shirts. She likes the length and compression level but they do cause her to get too hot on warm days. They don't seem very breathable.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Britney  Helmuth</name>
+        <reviewer_id>helmuth.therapy@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-05-19T20:40:57.000Z</review_timestamp>
+      <content>It was great!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nicole Bode</name>
+        <reviewer_id>nicolebode1@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-05-10T20:07:30.000Z</review_timestamp>
+      <content>Very picky customer was very happy with the fit, the feel and the colors! Will be ordering more</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Mary Torres</name>
+        <reviewer_id>jtorres4850@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-03-12T01:49:11.000Z</review_timestamp>
+      <content>I was very disappointed in the shirt because it had a label sewed into the inside seam!!  After all of the talk about sensory difficult in children, I certainly would have thought that the product would be sensitive to this!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Krista Pickar</name>
+        <reviewer_id>kmiller885@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-03-11T12:05:17.000Z</review_timestamp>
+      <content>We love it, it has worked so well with our son! The other perk, is that it is super easy to clean and to put back together! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Laura Sheridan</name>
+        <reviewer_id>lasheridan28@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-02-11T01:26:28.000Z</review_timestamp>
+      <content>Very high quality shirt, highly recommend</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>jessica herrera</name>
+        <reviewer_id>rherrerajess_90@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-02-09T21:04:04.000Z</review_timestamp>
+      <content>They are awesome </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>jessica herrera</name>
+        <reviewer_id>rherrerajess_90@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-02-09T21:04:00.000Z</review_timestamp>
+      <content>They are awesome </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sherry Walker</name>
+        <reviewer_id>slwalker4774@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-01-25T22:41:52.000Z</review_timestamp>
+      <content>I ordered them to big so they aren't working yet however I have ordered from you before and everything was perfect</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Rachel  Murphree </name>
+        <reviewer_id>malachi126.rp@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-13T02:37:29.000Z</review_timestamp>
+      <content>Shipping is fast and a great product for my sensory seeking 3 year old. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Kori Buck</name>
+        <reviewer_id>kbbuck001@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-08-12T03:10:11.000Z</review_timestamp>
+      <content>Lots of options. Excited to try </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresanna Manganiello</name>
+        <reviewer_id>rollerskateskinny00@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-06-20T16:54:57.000Z</review_timestamp>
+      <content>Great as always! Love Kozie!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/52f2ca5f-7301-4065-873e-1637115edd95</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/52f2ca5f-7301-4065-873e-1637115edd95</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Regina Frazer</name>
+        <reviewer_id>rcrain7911@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-06-13T02:55:43.000Z</review_timestamp>
+      <content>Love the variety of colors!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Eileen Knutson</name>
+        <reviewer_id>eileenknutson5@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-27T17:19:05.000Z</review_timestamp>
+      <content>It was just fine</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/be675f80-b7e5-4564-a48d-61119ac1d662</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/be675f80-b7e5-4564-a48d-61119ac1d662</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>LeeAnn Browett</name>
+        <reviewer_id>gleeannp@mail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-25T13:27:44.000Z</review_timestamp>
+      <content>Excellent as as always! Thank you!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>April Kring</name>
+        <reviewer_id>thecowdiditllc@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-21T01:43:41.000Z</review_timestamp>
+      <content>.        </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Yocheved Lefkowitz</name>
+        <reviewer_id>ylefko95@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-05-16T02:56:34.000Z</review_timestamp>
+      <content>easy website</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sandra Lauri</name>
+        <reviewer_id>san1lau@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-04-29T20:34:36.000Z</review_timestamp>
+      <content>looks like nice products</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Starsha Berchoff</name>
+        <reviewer_id>starshalee@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-04-19T15:12:52.000Z</review_timestamp>
+      <content>Easy to order, free shipping!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Emily Escue</name>
+        <reviewer_id>emily.escue@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-16T14:28:12.000Z</review_timestamp>
+      <content>Great size and color selection</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Patricia Miller</name>
+        <reviewer_id>rainbowsmeyels@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-14T09:28:45.000Z</review_timestamp>
+      <content>Excellent </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/74ec3f04-367c-431e-99e5-b468014a0652</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/74ec3f04-367c-431e-99e5-b468014a0652</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Denise Hans</name>
+        <reviewer_id>deehans1@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-11T22:37:41.000Z</review_timestamp>
+      <content>I was looking for sensory socks for a 3 year old little boy. Thank you for making these socks. God bless you! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Dana Carter</name>
+        <reviewer_id>danaric25@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-03-06T02:22:48.000Z</review_timestamp>
+      <content>Great!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Evelin Echeverria</name>
+        <reviewer_id>evelince29@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-01-31T16:31:12.000Z</review_timestamp>
+      <content>Easy and fast </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Christina Chucherko</name>
+        <reviewer_id>angelictransports@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-12-05T02:24:10.000Z</review_timestamp>
+      <content>Great </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Joan Esposito </name>
+        <reviewer_id>joansie1116@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-12-02T15:02:11.000Z</review_timestamp>
+      <content>It was very easy.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/973b596d-b454-0e97-24a8-488b73a67cd4</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/973b596d-b454-0e97-24a8-488b73a67cd4</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Allison Frey</name>
+        <reviewer_id>vaultprincess@msn.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-12-02T14:41:10.000Z</review_timestamp>
+      <content>organized and description had what i needed</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Joan Esposito </name>
+        <reviewer_id>joansie1116@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-11-27T17:36:38.000Z</review_timestamp>
+      <content>It was a stress-free shopping experience </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/973b596d-b454-0e97-24a8-488b73a67cd4</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/973b596d-b454-0e97-24a8-488b73a67cd4</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Barbara Garrity</name>
+        <reviewer_id>bgpgarrity@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-11-22T19:40:56.000Z</review_timestamp>
+      <content>Website was flipping around. Difficult to navigate</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">2</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Rebecca Cummings</name>
+        <reviewer_id>rmccaffrey@rochester.rr.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-11-15T03:04:17.000Z</review_timestamp>
+      <content>Prices that it initially listed changed as I tried to order. Seemed weird. I get it starts at but why the change in a couple dollars no matter which color I pick?</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/973b596d-b454-0e97-24a8-488b73a67cd4</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/973b596d-b454-0e97-24a8-488b73a67cd4</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Alyse Piscitelli</name>
+        <reviewer_id>alyse.piscitelli@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-11-11T02:34:38.000Z</review_timestamp>
+      <content>Great product and website. Thanks!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/5f2d0058-0990-a93c-05b3-69c2095cc67a</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/5f2d0058-0990-a93c-05b3-69c2095cc67a</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Rin Sexson</name>
+        <reviewer_id>esexson21@gmail.con</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-11-10T19:55:50.000Z</review_timestamp>
+      <content>Easy and informative site!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Libby Burns</name>
+        <reviewer_id>the.burns.family@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-10-30T19:55:23.000Z</review_timestamp>
+      <content>Good options! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/5f2d0058-0990-a93c-05b3-69c2095cc67a</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/5f2d0058-0990-a93c-05b3-69c2095cc67a</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Hayley Wardlow</name>
+        <reviewer_id>hayleynwardlow@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-09-21T01:03:51.000Z</review_timestamp>
+      <content>Easy!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1c33dc1-c219-432f-8968-344af9b01b9d</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1c33dc1-c219-432f-8968-344af9b01b9d</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Bailey  Hawley</name>
+        <reviewer_id>amberm@yourfse.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-09-18T20:19:08.000Z</review_timestamp>
+      <content>great and ea sy </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Blayne Kiser</name>
+        <reviewer_id>blaynekiser@ymail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-09-15T04:17:03.000Z</review_timestamp>
+      <content>Easy shopping experience wish the prices were a little cheaper though</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ivan Rodriguez</name>
+        <reviewer_id>irodriguez.ir89@gmaili.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-08-18T11:10:50.000Z</review_timestamp>
+      <content>Very easy ro place order.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>John Mitchell</name>
+        <reviewer_id>mitchell_gail@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-07-28T23:36:22.000Z</review_timestamp>
+      <content>Easy to use and quick.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Nichole Choi</name>
+        <reviewer_id>nichole.won@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-07-28T21:00:53.000Z</review_timestamp>
+      <content>Website wasn’t working for placing orders</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">1</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Molly Radcliffe</name>
+        <reviewer_id>mollyradcliffe@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-07-26T01:50:06.000Z</review_timestamp>
+      <content>Site was simple to use. Very easy checkout process. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Stephanie Lambert</name>
+        <reviewer_id>lambert.sl@outlook.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-07-19T18:24:10.000Z</review_timestamp>
+      <content>Easy to shop. Clear size chart.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresa Lehman</name>
+        <reviewer_id>tvi.lehman@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-06-22T12:47:29.000Z</review_timestamp>
+      <content>Easy site </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>LeeAnn Browett</name>
+        <reviewer_id>gleeannp@mail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-06-19T01:53:52.000Z</review_timestamp>
+      <content>Kozie has the best compression shirts. I have been buying them for my son for the past seven years!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1c708b95-3506-d894-6e3f-cf08c75b95ab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>John McMillen</name>
+        <reviewer_id>mcmillenjv@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-05-12T15:24:33.000Z</review_timestamp>
+      <content>My son absolutely loves his Kozie shirts! He has worn them for years. Best quality around. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/0f499488-9964-49e5-a097-ec4b2346bba9</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/0f499488-9964-49e5-a097-ec4b2346bba9</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Lori </name>
+        <reviewer_id>jtsls4@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-05-10T22:47:11.000Z</review_timestamp>
+      <content>Love that you offer smaller sizes for compression wear!  Using for my EI population!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c155ffb8-24e9-ab90-a49a-44aba4db1777</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Rebecca Robison</name>
+        <reviewer_id>brobison@logancbdd.org</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-05-02T18:37:35.000Z</review_timestamp>
+      <content>Very easy to use the website. You offer larger sizes that are hard to find.  </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Erin Schlagbaum </name>
+        <reviewer_id>ekschlag714@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-04-01T00:11:01.000Z</review_timestamp>
+      <content>Easy site to search looking forward to testing the products </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Theresanna Manganiello</name>
+        <reviewer_id>rollerskateskinny00@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-25T19:54:33.000Z</review_timestamp>
+      <content>Love this company!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c7e32737-da2b-49a2-b2d4-905f3bd7c027</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c7e32737-da2b-49a2-b2d4-905f3bd7c027</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>LAURI BONSER</name>
+        <reviewer_id>lmbonser1@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-17T01:37:54.000Z</review_timestamp>
+      <content>New to this clothing, anxious to give it a try.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/0f499488-9964-49e5-a097-ec4b2346bba9</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/0f499488-9964-49e5-a097-ec4b2346bba9</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jennifer Orr</name>
+        <reviewer_id>jenneli77@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-16T17:30:09.000Z</review_timestamp>
+      <content>Easy to order the things we need 
+</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Josephine ryan</name>
+        <reviewer_id>jmryan2000@sbcglobal.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-08T23:56:56.000Z</review_timestamp>
+      <content>Easy to order my items</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Erica Beus</name>
+        <reviewer_id>erica.beus@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-07T17:15:03.000Z</review_timestamp>
+      <content>I like this product and buying it is smooth but it is really expensive.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Rebecca Austin</name>
+        <reviewer_id>slickpiglady@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-13T17:53:44.000Z</review_timestamp>
+      <content>Very easy to order</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9210a139-4bbd-805f-d8b2-552d106b2471</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Pamela Cook</name>
+        <reviewer_id>pk1234ks@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-12T07:44:28.000Z</review_timestamp>
+      <content>Wish you provided free shipping, especialy since the price of the item was so high.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ashlyn  Atherton</name>
+        <reviewer_id>puppieluv08@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-02-05T05:20:52.000Z</review_timestamp>
+      <content>Very quick and simple layout to find what I needed. Thank you.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Christian Wower</name>
+        <reviewer_id>cjwower@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-21T15:24:49.000Z</review_timestamp>
+      <content>my son loves the compression shirt</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Kelly Taylor </name>
+        <reviewer_id>mstaylor1kr@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-18T13:25:08.000Z</review_timestamp>
+      <content>First time trying your clothes, have a SPD toddler, hope he’ll enjoy. Thank you.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ashley Snider</name>
+        <reviewer_id>ashley_walker19@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-09T20:37:54.000Z</review_timestamp>
+      <content>Super easy to navigate and exciting to see they have clothing in my toddlers size!!! Thank you. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ashley Snider</name>
+        <reviewer_id>ashley_walker19@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-01-09T20:37:37.000Z</review_timestamp>
+      <content>Super easy to navigate and exciting to see they have clothing in my toddlers size!!! Thank you. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Chinmay Limaye</name>
+        <reviewer_id>chinmu31@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-12-17T23:40:52.000Z</review_timestamp>
+      <content>Nice clothes. My daughter enjoys wearing them to daycare.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Stephanie Salazar</name>
+        <reviewer_id>bandfanatic_89@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-12-14T22:16:06.000Z</review_timestamp>
+      <content>Your website could load faster. I’m grateful for my purchase.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/21e8a760-2b7d-46a0-8d0a-3ec5f4f79163</review_url>
+      <ratings>
+        <overall min="1" max="5">2</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/21e8a760-2b7d-46a0-8d0a-3ec5f4f79163</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>susan britton</name>
+        <reviewer_id>sue@bmdg.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-12-11T19:12:33.000Z</review_timestamp>
+      <content>Always the best products and so usefully for our grandkids with SPD! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>MESHULAM ROTHCHILD</name>
+        <reviewer_id>c3871218@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-12-09T01:29:23.000Z</review_timestamp>
+      <content>great!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Latasha Smith</name>
+        <reviewer_id>seckziwpearls24@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-12-02T23:40:58.000Z</review_timestamp>
+      <content>I love the quality of the fabric!! My kiddo loves it too. ❤️❤️❤️</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Danielle Micallef</name>
+        <reviewer_id>dgroovy42@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-28T13:23:14.000Z</review_timestamp>
+      <content>LOVE YOUR COMPANY.  I'M A PRESCHOOL SPECIAL EDUCATION TEACHER AND RECOMMEND YOUR COMPANY TO MANY PARENTS FOR THEIR CHILDREN.  THANK YOU!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Timothy Wallace</name>
+        <reviewer_id>timothyjohnwallace@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-25T16:25:03.000Z</review_timestamp>
+      <content>Shirts work out great!
+</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>susan britton</name>
+        <reviewer_id>sue@bmdg.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-11-18T17:51:24.000Z</review_timestamp>
+      <content>Always great products and the good science to it! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/23c21e88-2ebe-4ff4-9c99-9bdf0260e1b1</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Mary Jane Petrarca</name>
+        <reviewer_id>mjpetrarca@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-31T12:58:02.000Z</review_timestamp>
+      <content>great, very fast</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Deborah DeLong</name>
+        <reviewer_id>englishgirl1960@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-27T17:30:34.000Z</review_timestamp>
+      <content>Easy to navigate your website.  So excited to see if this helps my granddaughter!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/55edb3e6-f5c8-49f8-841e-617161ddbc9d</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/55edb3e6-f5c8-49f8-841e-617161ddbc9d</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Katie Wittrock</name>
+        <reviewer_id>ruprechtkatie@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-24T03:37:34.000Z</review_timestamp>
+      <content>Great!  Just wish I didn’t have to pay for shipping. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Lena Bentsianov</name>
+        <reviewer_id>lena_hodge@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-18T16:22:31.000Z</review_timestamp>
+      <content>Like this site great options </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c16b0a0a-60fe-4291-8d7e-8561d07ad6ce</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c16b0a0a-60fe-4291-8d7e-8561d07ad6ce</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Lena Bentsianov</name>
+        <reviewer_id>lena_hodge@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-18T15:48:58.000Z</review_timestamp>
+      <content>Great site </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/55edb3e6-f5c8-49f8-841e-617161ddbc9d</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/55edb3e6-f5c8-49f8-841e-617161ddbc9d</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jometra Stamper</name>
+        <reviewer_id>jiampeace@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-11T14:43:59.000Z</review_timestamp>
+      <content>Easy check out. </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8be563f8-6995-415f-8d2b-c801b2c5db34</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Marie Kennedy</name>
+        <reviewer_id>marushka50@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-10-01T00:57:22.000Z</review_timestamp>
+      <content>Good selection, easy to make purchase</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Catherine Craighead</name>
+        <reviewer_id>craighead.cathy@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-22T01:40:28.000Z</review_timestamp>
+      <content>NICe and easy</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Alma Montolio</name>
+        <reviewer_id>almablessed@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-03T06:35:08.000Z</review_timestamp>
+      <content>It always nice to be able to find what one is looking for. Thank you</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Timothy Wallace</name>
+        <reviewer_id>timothyjohnwallace@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-05T17:14:40.000Z</review_timestamp>
+      <content>easy!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Berish Deutsch</name>
+        <reviewer_id>purchasing@eislaasois.org</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-07-14T18:50:36.000Z</review_timestamp>
+      <content>great</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>LeeAnn Browett</name>
+        <reviewer_id>gleeannp@mail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-07-11T17:27:28.000Z</review_timestamp>
+      <content>These compression shirts are the best! I’ve been buying them for my son with sensory issues for years because, by far, the are the most comfortable.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Tammy Kokan</name>
+        <reviewer_id>tkokan@waukeshacounty.gov</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-07-06T16:25:28.000Z</review_timestamp>
+      <content>Easy ordering process. thank you.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Heather Rider</name>
+        <reviewer_id>hlmpt4@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-06-11T11:07:04.000Z</review_timestamp>
+      <content>Website would not let me log into my account</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">0</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Janelle McGouldrick</name>
+        <reviewer_id>janelletetrault@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-06-09T22:52:22.000Z</review_timestamp>
+      <content>New website looks great. Works well.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</review_url>
+      <ratings>
+        <overall min="1" max="5">0</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/1a50a420-08d8-4083-8bd6-28bb908a21d2</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Lauren</name>
+        <reviewer_id>laurenekingry@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-01-19T00:00:00.000Z</review_timestamp>
+      <content>The quality of this shirt is good and it arrived quickly. However, I have one suggestion. Please don’t put a tag on the inside of a shirt made for kids with sensory challenges. Include wash instructions in the package! Having to cut out that tag left a little of it behind in the seam, which was still bothersome to my son. That is my reason for 4/5; otherwise it’s a great compression shirt.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sadie E</name>
+        <reviewer_id>sadie.esplin@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2021-08-13T00:00:00.000Z</review_timestamp>
+      <content>Reversible Short Sleeve - Therapeutic for Deep Calming Pressure
+Complete game changer. My four-year-old has always had issues with clothing, he seems to be hyper-sensitive to different fabrics, seams, and necklines. Getting him dressed each day was more than a battle—I found myself crying at the pediatrician more than once over the struggle to get him dressed. 
+We had seen Kozie clothes before but were hesitant to purchase something at a higher price point assuming he would refuse to wear it, and we also doubted if a shirt could really make that big a difference.. After literal years of battling over clothes,  we decided to make the purchase, and my only regret is not ordering it sooner. We've had the double-sided compression shirt for a week and it has made a complete turn-around in my son. Getting dressed isn't a struggle anymore, he absolutely loves his compression shirt and thanks me for it multiple times a day. 
+He is a little small for his age and the 4T fits perfectly. 
+</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Christine</name>
+        <reviewer_id>rogue.4life@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2021-06-29T00:00:00.000Z</review_timestamp>
+      <content>These shirts are a great quality but I wish they were seamless.  My spd daughter benefits from the compression but has to wear it inside out due to the seams.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">4</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Victoria Plummer</name>
+        <reviewer_id>victoriaplummer12@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2020-11-10T00:00:00.000Z</review_timestamp>
+      <content>Everything was great</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/0cc05bbf-e151-4f14-97cf-2e271babbe72</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/0cc05bbf-e151-4f14-97cf-2e271babbe72</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Victoria Plummer</name>
+        <reviewer_id>victoriaplummer12@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2020-11-10T00:00:00.000Z</review_timestamp>
+      <content>Everything was great</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Dustin Sweet</name>
+        <reviewer_id>dustinpsweet@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2020-10-10T00:00:00.000Z</review_timestamp>
+      <content>Very well made! Love this shirt. Just bought 4 more</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sam Moen</name>
+        <reviewer_id>sam_3616@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2020-07-21T00:00:00.000Z</review_timestamp>
+      <content>Our son has autism and sensory issues and needs quite a bit of compression to help him regulate. This shirt was perfect for that! It looks stylish and like a regular shirt, but provides necessary compression. The only thing I’ll caution is that it stains pretty easily. We got the light gray and it was stained the first time he wore it. So maybe buy black...? Great buy. He wears a 5T in regular shirts and the 6 was a perfect, snug fit.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/8ed178ff-0221-4f88-b894-ab9ccb8c4281</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Christopher Biscuiti</name>
+        <reviewer_id>chris.biscuiti@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2020-07-20T00:00:00.000Z</review_timestamp>
+      <content>The perfect compression shirts for our son with CP. His OT recommended tighter-fitting compression shirts to make him feel secure and supported, and these are great.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Megan</name>
+        <reviewer_id>megannc83@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2020-02-05T00:00:00.000Z</review_timestamp>
+      <content>My son has had 100% successful days at school, each time he has worn this.  This fit wasn't as tight as the same size of short sleeve in the compression shirt.  We are ordering more</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/609e560e-5368-4e13-9818-8df3077727a9</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/609e560e-5368-4e13-9818-8df3077727a9</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Kayla G</name>
+        <reviewer_id>tstm3@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2019-11-15T00:00:00.000Z</review_timestamp>
+      <content>My son has had 100% successful days at school, each time he has worn this.  This fit wasn't as tight as the same size of short sleeve in the compression shirt.  We are ordering more</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Barb Holloway</name>
+        <reviewer_id>barbholloway56@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2019-10-09T00:00:00.000Z</review_timestamp>
+      <content>I purchased three different outfits .The quality was amazing. So nice to have a company who provides adaptive clothing for babies. I highly recommend Kozie </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/dbe3060f-d17c-448d-8afc-f2ada8200bb2</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/dbe3060f-d17c-448d-8afc-f2ada8200bb2</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Susan Stearns</name>
+        <reviewer_id>shgaunt@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2019-09-01T00:00:00.000Z</review_timestamp>
+      <content>We love my son's new Nathan onesie! We'll definitely be ordering more. It runs small--he wears a 3T but we ordered a 4 and I'm glad we did. I think it could definitely use one more snap on the crotch (we'll be adding one) but all in all we're thrilled to find a onesie in this size that has snaps for diapering and easy access for a gtube. It's soft and definitely seemed comfy.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/19476413-b95a-4034-a07a-eda666820dcd</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/19476413-b95a-4034-a07a-eda666820dcd</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jennifer</name>
+        <reviewer_id>jhodges1286@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2017-10-26T00:00:00.000Z</review_timestamp>
+      <content>Ships IMMEDIATELY!!  Excellent quality.  Highly recommended</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Yrbknerds</name>
+        <reviewer_id>gloria@uxaglow.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2017-06-12T00:00:00.000Z</review_timestamp>
+      <content>The shirt arrived in four days which is pretty good. It appears to be well made and durable with a nice thick material and quality stitching. Held up fine through initial wash then went straight on baby.  He seems quite comfortable in it, sleeping.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/fff1eb7c-2bfb-4412-a20c-f91ff619dbc0</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sarah Krawcheck</name>
+        <reviewer_id>carebearsar14@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2017-01-31T00:00:00.000Z</review_timestamp>
+      <content>My mom bought my daughter a monster, the blue one, and she loves it! I keep it in her crib and she looks at it and now she's been hugging it! My daughter has a genetic mutation that causes seizures and at high risk for autism. Even though we haven't seen autistic tendencies, she still loves this monster. I think a typically developing child would love this monster too!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/85064868-22d5-421c-8d54-74fb24473eab</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/85064868-22d5-421c-8d54-74fb24473eab</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Ana Fernandez</name>
+        <reviewer_id>anafernandez2250@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2017-01-25T00:00:00.000Z</review_timestamp>
+      <content>We have been using this shirt for a couple of weeks and have seen great results.  My 2 year old has SPD and with the shirt he is much more calm and focused while playing.  It offers him great sensory input.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Melissa Kuhner</name>
+        <reviewer_id>mel_smith1990@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2016-10-19T00:00:00.000Z</review_timestamp>
+      <content>Pants run true to size and appear to be quality made. Hoping these help with my former 27wk preemie and proprioceptive input.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/43b7db48-d066-4c67-b78f-47b66a7bdc92</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>sheila lunnin</name>
+        <reviewer_id>sheshelunnin@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2015-06-11T00:00:00.000Z</review_timestamp>
+      <content>clothes wear and wash fine and also comfortable</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jennifer Bridgers</name>
+        <reviewer_id>jbspoonfed@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2015-06-02T00:00:00.000Z</review_timestamp>
+      <content>Our school district ordered this product (as well as shirt sleeved version)for a student who falls under ASD. Both teachers and parents saw immediate progress with his ability to transition and tolerate changes in routine [spring field trips]. We encountered a small issue, which was quickly taken care of by Susan. We will be using your company again-thank you, Kozie Clothes!!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/b9b409b1-3b7f-459a-b00e-924c7a172f2e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>sheila lunnin</name>
+        <reviewer_id>sheshelunnin@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2015-05-30T00:00:00.000Z</review_timestamp>
+      <content>cloths help with my grandsons sensory problem</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/08dc49b7-207c-4f45-932f-d594360e1fdc</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jen</name>
+        <reviewer_id>jenn.dera@hotmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2015-05-16T00:00:00.000Z</review_timestamp>
+      <content>Works great for my son with hyperextension/mobility issues!  Bought one size smaller since they run a smidge large.  And Susan is a peach to communicate with!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jackie</name>
+        <reviewer_id>specializedhomecareservices@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2014-11-02T00:00:00.000Z</review_timestamp>
+      <content>We love our weighted blanket. It was made to our specific needs about five years ago and is as beautiful today as it was when we received it. We like the fact that the pellets are not recycled from something that might be dangerous and that there were many fabrics to choose from. Highly recommended</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Karan mckerrow</name>
+        <reviewer_id>ellie.tapia21@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2014-06-01T00:00:00.000Z</review_timestamp>
+      <content>Hi my son is 16 and am looking for one for a large adult size, can you advise please ? Thanks</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Carolyn</name>
+        <reviewer_id>crivers1313@yahoo.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2014-05-01T00:00:00.000Z</review_timestamp>
+      <content>We use this blanket for our non-verbal, adult daughter who suffered a TBI.  When she becomes agitated or tense, we use this blanket to help soothe her.  The blanket allows the agitation and extreme muscle tension to slowly melt away so that she can relax.  I sometimes steal it away to use myself when she doesn't need it!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Trish Abel</name>
+        <reviewer_id>bellmyloveis4eve@aol.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2014-04-01T00:00:00.000Z</review_timestamp>
+      <content>Seems the perfect shirt for my son who sweats and overheats which leads to him itching and scratching.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c7e32737-da2b-49a2-b2d4-905f3bd7c027</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c7e32737-da2b-49a2-b2d4-905f3bd7c027</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Amy</name>
+        <reviewer_id>aferrara2122@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2013-07-21T00:00:00.000Z</review_timestamp>
+      <content>My 6 year old daughter LOVES this blanket!  She sleeps so peacefully underneath it, and helps to calm her when she is upset.  We call it "relaxing blankie", it is a miracle worker!  My 3 year old neurotypical daughter runs to fetch it when her older sister is upset, even she recognizes how useful it is!  The 3 year old wants to know when she's getting one.  I had to try it out for myself, and think it is pretty soothing.  The only thing I would suggest is a family pack!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Amy</name>
+        <reviewer_id>aferrara2122@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2013-07-21T00:00:00.000Z</review_timestamp>
+      <content>My daughter LOVES this blanket!   It helps her to relax when she is overstimulated.  I work nights intermittently, and have tried this blanket myself when I am having trouble winding down from working in the ER, and it works for me too!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Amy</name>
+        <reviewer_id>aferrara2122@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2013-07-21T00:00:00.000Z</review_timestamp>
+      <content>My daughter LOVES this blanket!   It helps her to relax when she is overstimulated.  I work nights intermittently, and have tried this blanket myself when I am having trouble winding down from working in the ER, and it works for me too!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Stephanie</name>
+        <reviewer_id>squeek907@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2013-07-21T00:00:00.000Z</review_timestamp>
+      <content>It fits perfectly!!!  He still has room to stretch and not be TOO confined!  We used it today for the first time when he started to really panic!  YAY!!!!  He loved it and calmed down much quicker than he would have without it!!!  I'm attaching a pic!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/a7bc63dd-62ba-40dd-a488-bb65f42fb5bd</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Sue</name>
+        <reviewer_id>slnorris@comcast.net</reviewer_id>
+      </reviewer>
+      <review_timestamp>2012-08-30T00:00:00.000Z</review_timestamp>
+      <content>Having fibromyalgia and restless nights it was suggested I try this weighted blanket.  WOW!  It's remarkable that I have had nothing but peaceful, calm, and full nights sleep since the very first night.  I find myself smiling.  Would never give it up!!  It's true what they say, it enhances calmness!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Stephanie</name>
+        <reviewer_id>squeek907@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2012-07-11T00:00:00.000Z</review_timestamp>
+      <content>It fits perfectly!!!  He still has room to stretch and not be TOO confined!  We used it today for the first time when he started to really panic!  YAY!!!!  He loved it and calmed down much quicker than he would have without it!!! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/c1fe4739-aac5-4037-8c64-d2d279b98569</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Eileen</name>
+        <reviewer_id>eileen@odco.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2012-05-06T00:00:00.000Z</review_timestamp>
+      <content>This weighted blanket is so soft and comforting on the one side and “cool” on the skin on the other.  We use it daily in our family (parents as much as the kids we bought it for!)  It is the perfect size to keep on the couch for easy access while watching TV, reading or napping.  Using this blanket before bedtime helps to create a “calm down” session for our son.
+
+-Special Education Teacher (West Chester)</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Autism mom</name>
+        <reviewer_id>chysdad19@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2012-01-29T00:00:00.000Z</review_timestamp>
+      <content>Wow! How exciting that there is actually a product addressing the needs of my child and the family. Your clothes are so adorable any parent or child would love them! These clothes have opened doors for us. We now make more social appearances with less frustration.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/3a654b5f-2087-452c-955f-96d206b5644e</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/3a654b5f-2087-452c-955f-96d206b5644e</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Erin</name>
+        <reviewer_id>relmaboeckermann@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2011-03-13T00:00:00.000Z</review_timestamp>
+      <content>This blanket saved my sanity! My son is 1 year old. Until a month ago he was up at least 3-4 times a night. I had tried all kinds of things to get him to sleep through the night, or at least more than 2 hours at a time. I was at my wits end. So I put him to bed with this blanket on, and for the first time in his life he slept 8 1/2 hours straight! He has done so everynight since! This blanket is amazing. I can lay him down in his crib with it on his legs, and he quietly plays with the soft velvety fabric till he falls asleep. It is so well made and I love that it is machine washable!</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/e42fce28-b2ed-4e59-8c4e-ebfb26e2f2de</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>#lomama</name>
+        <reviewer_id>lo.jacquelyn.e@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2024-04-12T18:16:43.000Z</review_timestamp>
+      <content>I love this for my son. He has a gtube on his left side and also a peritoneal dialysis catheter on his right side. He does not have head control, so dressing him in something that does not need to be slid over his head is super nice. With the buttons down the front, his catheters can dangle out through the openings between buttons instead of being pressed against his skin and coming out of a leg hole. The material is very soft and stretchy, which I love. Highly recommend!! We have the blue suit, it is richer in color than pictured here, more like a royal blue. It looks great! </content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/be675f80-b7e5-4564-a48d-61119ac1d662</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/be675f80-b7e5-4564-a48d-61119ac1d662</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Kaitlyn C</name>
+        <reviewer_id>kaitlyn.cimala@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2023-03-20T23:54:59.000Z</review_timestamp>
+      <content>I love how convenient this is for my baby's G tube. I had a question about my order, and they had the best customer service by being kind and prompt.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/9130c9e5-2230-4076-9c5e-1208fc0c890b</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/9130c9e5-2230-4076-9c5e-1208fc0c890b</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Jillian </name>
+        <reviewer_id>jillianwaring2014@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-09-01T01:37:33.000Z</review_timestamp>
+      <content>I have not purchased this item bc I must say, the color and look of horse is not your average ‘girl’ horse and that the pieces detach means they will either be in my daughters mouth or lost and she will get upset. Perhaps a design that can open and close, like a flap with Velcro, seamed and attached on one side, could serve this purpose better?</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/13f9e7b4-9820-4e20-9c8d-309b5dd9a995</review_url>
+      <ratings>
+        <overall min="1" max="5">3</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/13f9e7b4-9820-4e20-9c8d-309b5dd9a995</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Tina</name>
+        <reviewer_id>tmt220@gmail.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-31T19:10:57.000Z</review_timestamp>
+      <content>This was great at first, but after a few washes the seems started to come apart in several spots and it is no longer snug enough to do much.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/52aa3f43-52f8-48c3-bd8c-7e6d2ecaf9f9</review_url>
+      <ratings>
+        <overall min="1" max="5">2</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/52aa3f43-52f8-48c3-bd8c-7e6d2ecaf9f9</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Zoe</name>
+        <reviewer_id>linda.zoe@kudobuzz.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-02T17:18:24.000Z</review_timestamp>
+      <content>Awesome.</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/57f0d832-ec13-40ad-9799-bebebc1f36f5</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/57f0d832-ec13-40ad-9799-bebebc1f36f5</product_url>
+        </product>
+      </products>
+    </review>
+    <review>
+      <reviewer>
+        <name>Zoe</name>
+        <reviewer_id>linda.zoe@kudobuzz.com</reviewer_id>
+      </reviewer>
+      <review_timestamp>2022-08-02T17:15:05.000Z</review_timestamp>
+      <content>Love this product</content>
+      <review_url type="singleton">https://www.kozieclothes.com/product-page/57f0d832-ec13-40ad-9799-bebebc1f36f5</review_url>
+      <ratings>
+        <overall min="1" max="5">5</overall>
+      </ratings>
+      <products>
+        <product>
+          <product_url>https://www.kozieclothes.com/product-page/57f0d832-ec13-40ad-9799-bebebc1f36f5</product_url>
+        </product>
+      </products>
+    </review>
+  </reviews>
+</feed>
